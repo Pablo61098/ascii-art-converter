@@ -2,7 +2,7 @@ This line wold make the ascii-art.py module work with a picture in the folder im
 
 --this line in command line --	
 
-'python ascii-art.py --file data/robot.jpeg  --out output_file_name.txt --way 1 --cols 100'
+$ python ascii-art.py --file data/robot.jpeg  --out output_file_name.txt --way 1 --cols 100
 
 Adjust --cols and --scale  as convinient
 
